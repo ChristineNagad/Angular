@@ -1,0 +1,35 @@
+[33mcommit 3100c6f8d0fb44fa387cdeb946e3f617f1618afd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Ghichartjs[m[33m, [m[1;32mGhichartjs[m[33m)[m
+Author: ghivalla <ghivalla@gmail.com>
+Date:   Fri May 24 14:40:53 2019 +0200
+
+    definition d'une fonction pour tuer les duplicats des dates
+
+[33mcommit bc3a105c7b1b2cacb6167698ffeafb020570cfc0[m
+Author: ghivalla <ghivalla@gmail.com>
+Date:   Fri May 24 13:26:04 2019 +0200
+
+    partie 1 ok !
+
+[33mcommit cfde8a5c6c3539a83b4b781d984343d5ad8e491a[m
+Author: ghivalla <ghivalla@gmail.com>
+Date:   Fri May 24 10:57:23 2019 +0200
+
+    teste
+
+[33mcommit 6f2a51af7916768492fbd1ca71812622a507263d[m
+Author: ghivalla <ghivalla@gmail.com>
+Date:   Fri May 24 10:43:08 2019 +0200
+
+    exo 2 ok
+
+[33mcommit 35566977b7a1a15e13825f0ca6fe4db607250ae0[m
+Author: ghivalla <ghivalla@gmail.com>
+Date:   Thu May 23 10:01:03 2019 +0200
+
+    exo 1 et 2  et 3 fait
+
+[33mcommit 00289593ee7a1d038a1f715beb34078ae1715d11[m
+Author: ghivalla <ghivalla@gmail.com>
+Date:   Wed May 22 11:14:03 2019 +0200
+
+    creation du projet, ajout de la librairie chart.js
